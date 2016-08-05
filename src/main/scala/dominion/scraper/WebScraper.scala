@@ -1,4 +1,4 @@
-package org.garrett.dominion
+package dominion.scraper
 
 import java.io.PrintWriter
 

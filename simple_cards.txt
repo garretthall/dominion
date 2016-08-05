@@ -1,0 +1,14 @@
+Village	Base	Action	$3	+1 Card, +2 Actions.
+Woodcutter	Base	Action	$3	+1 Buy, +2 Coins.
+Festival	Base	Action	$5	+2 Actions, +1 Buy, +2 Coins.
+Laboratory	Base	Action	$5	+2 Cards, +1 Action.
+Smithy	Base	Action	$4	+3 Cards.
+Platinum	Base Cards	Treasure	$9	5 Coins
+Colony	Base Cards	Victory	$11	10 Victory
+Copper	Common	Treasure	$0	1 Coin.
+Estate	Common	Victory	$2	1 Victory.
+Silver	Common	Treasure	$3	2 Coins.
+Duchy	Common	Victory	$5	3 Victory.
+Gold	Common	Treasure	$6	3 Coins.
+Province	Common	Victory	$8	6 Victory.
+Curse	Common	Curse	$0	-1 Victory.
